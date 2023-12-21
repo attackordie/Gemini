@@ -1,0 +1,11 @@
+# ignore all .env files
+.env
+
+# ignore node_modules directory
+node_modules/
+
+# ignore log files
+*.log
+
+# ignore a specific file
+secret-config.json
